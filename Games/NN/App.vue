@@ -1,15 +1,15 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
+import HelloWorld from '../../src/components/HelloWorld.vue'
+import TheWelcome from '../../src/components/TheWelcome.vue'
 </script>
 
 <template>
   <h1 class="text-4xl font-bold  text-blue-600">
-    Hello world! Main 
+    Hello world Numbers and nodes!
   </h1>
 
   <header>
-    <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
+    <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
       <HelloWorld msg="You did it!" />

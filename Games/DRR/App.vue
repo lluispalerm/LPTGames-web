@@ -5,7 +5,7 @@ import TheWelcome from '../../src/components/TheWelcome.vue';
 
 <template>
   <h1 class="text-4xl font-bold  text-blue-600">
-    Hello world DRR!
+    Hello world DRRR!
   </h1>
 
   <header>
